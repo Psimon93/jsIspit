@@ -57,3 +57,5 @@ const toggleLoader = function () {
   table.classList.toggle("hidden");
 };
 input.addEventListener("input", search);
+
+console.log("ye");
